@@ -1,0 +1,50 @@
+\subsubsection*{Valores iniciales:}
+
+\begin{multicols}{2}
+	$r1)
+		\begin{cases}
+			3x - 2y + z - 5 = 0 \hspace{1cm} (\alpha) \\
+			2x + y - z - 5 = 0  \hfill (\beta)
+		\end{cases}$
+
+	$r2) \ \dfrac{x - 1}{2} = \dfrac{y - 3}{10} = \dfrac{x + 2}{14}$
+\end{multicols}
+
+\noindent \textbf{A continuación buscamos los vectores $\vec{u_1} \parallel r1$ y $\vec{u_2} \parallel r2$:}
+
+\noindent Hallamos la recta que forma la intersección de los planos determinados en $r1)$:
+
+\begin{center}
+	$\vec{n_{\alpha}} = (3, -2, 1) \hspace*{1cm} \vec{n_{\beta}} = (2, 1, -1)$
+
+\end{center}
+
+\noindent Hallamos $\vec{u_1} \perp \vec{n_{\alpha}} \land \vec{n_{\beta}}$:
+\begin{align*}
+	\vec{u_1}              & = \vec{n_{\alpha}} \times \vec{n_{\beta}}          \\
+	\vec{u_1}              & = \begin{vmatrix}
+		                           i & j  & k  \\
+		                           3 & -2 & 1  \\
+		                           2 & 1  & -1
+	                           \end{vmatrix}                                   \\
+	\vec{u_1}              & = \vec{i}(2 - 1) - \vec{j}(-3 -2) + \vec{k}(3 + 4) \\
+	\vec{u_1}              & = \vec{i}(1) - \vec{j}(-5) + \vec{k}(7)            \\
+	\vec{u_1}              & = \vec{i} + 5\vec{j} + 7\vec{k}                    \\
+	\therefore \ \vec{u_1} & = \boxed{(1, 5, 7)}
+\end{align*}
+
+\noindent Hallamos $\vec{u_2}$ de $r2$ igualando cada expresión a un $\lambda$ dado, con lo que obtenemos la siguiente ecuación paramétrica:
+
+\begin{center}
+	$r2)
+		\begin{cases}
+			x = 1 + 2\lambda  \\
+			y = 3 + 10\lambda \\
+			z = -2 + 14\lambda
+		\end{cases}$ \\
+	\vspace{0.3cm}
+	\noindent $\therefore \ \boxed{\vec{u_2} = (2, 10, 14)}$  \\
+	\vspace{0.3cm}
+	Obtenemos también el punto $P_0(1,3,-2)$
+\end{center}
+
