@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1686433181 "/home/aac-devs/03-LATEX-VSCODE/TP-MAT/TP/tp.tex" "tp.pdf" "tp" 1686433182
+["pdflatex"] 1686505351 "/home/aac-devs/03-LATEX-VSCODE/TP-MAT/TP/tp.tex" "tp.pdf" "tp" 1686505352
   "/etc/texmf/web2c/texmf.cnf" 1680342673 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/aac-devs/03-LATEX-VSCODE/TP-MAT/TP/tp.tex" 1686409651 1188 e0fb8dfcc6770dc3bf50d46af6157a95 ""
+  "/home/aac-devs/03-LATEX-VSCODE/TP-MAT/TP/tp.tex" 1686496472 1212 ff398e6e59da816dba27b627ae733a6b ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm" 1136768653 3584 13049b61b922a28b158a38aeff75ee9b ""
@@ -90,12 +90,12 @@
   "ej-12/enunciado.tex" 1686407384 465 1566a1301c113c09159160d7a609333e ""
   "ej-12/main-12.tex" 1686433181 803 2cccfdddb10abce14779228ee63b360c ""
   "ej-12/solucion-a.tex" 1686422030 1399 c17837dfabdec3c27f8102a9a4336c43 ""
-  "ej-12/solucion-b.tex" 1686422109 4437 5fd8677990e3a60598ab008804526350 ""
-  "ej-12/solucion-c.tex" 1686409552 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "ej-12/solucion-b.tex" 1686504088 4436 4f583635ed160dd27126cb7a6ea91b80 ""
+  "ej-12/solucion-c.tex" 1686505350 3742 e8d61790f551f9e9c00cd3be0aefdf6b ""
   "ej-12/solucion-inicial.tex" 1686433096 1720 4e9702956e00a4e08981304c27c7f85d ""
-  "tp.aux" 1686433182 1734 4c771c7bc8a23c11b3376dc8c6b40e72 "pdflatex"
-  "tp.tex" 1686409651 1188 e0fb8dfcc6770dc3bf50d46af6157a95 ""
-  "tp.toc" 1686433182 1036 c3cfb73ac35ced6d2ab592642e5fbb19 "pdflatex"
+  "tp.aux" 1686505351 1737 dae58a74134cfbb1da5a165c9899dd7a "pdflatex"
+  "tp.tex" 1686496472 1212 ff398e6e59da816dba27b627ae733a6b ""
+  "tp.toc" 1686505351 1039 2b62d7975d77d1055f53bbff5b399b17 "pdflatex"
   (generated)
   "tp.aux"
   "tp.log"
