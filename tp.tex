@@ -18,6 +18,7 @@
 
 \usepackage{graphicx}
 \usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -28,23 +29,21 @@
 %\addtolength{\topmargin}{-2.84344pt}
 
 \renewcommand{\theenumi}{\alph{enumi}}
-\renewcommand{\labelenumi}{{\theenumi})}
+\renewcommand{\labelenumi}{{\theenumi}}
 \providecommand{\abs}[1]{\lvert#1\rvert}
 
 
-%\includeonly{ej-12,ej-12inicial,
-%ej-12a,ej-12b,ej-12c}
 
+%\usepackage{fontawesome}
+%\usepackage[hidelinks]{hyperref}
+%\let\orighref\href
+%\renewcommand{\href}[2]{\orighref{#1}{#2}}
+%\hypersetup{colorlinks=true,linkcolor=blue,filecolor=magenta,urlcolor=cyan}
 
 
 \begin{document}
 
 \tableofcontents
-
-%\include{ej-12inicial}
-%\include{ej-12a}
-%\include{ej-12b}
-%\include{ej-12c}
 
 \import{ej-12/}{main-12.tex}
 
