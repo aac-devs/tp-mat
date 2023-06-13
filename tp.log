@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  11 JUN 2023 22:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  12 JUN 2023 22:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -481,49 +481,68 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] (./ej-12/enunciado.tex) [2
 
 ] (./ej-12/solucion-inicial.tex) [3] (./ej-12/solucion-a.tex
-<ej-12//TP-MATEMÁTICA-EJ12A.png, id=95, 1568.86125pt x 824.07875pt>
+<ej-12//TP-MATEMÁTICA-EJ12A.png, id=107, 1568.86125pt x 824.07875pt>
 File: ej-12//TP-MATEMÁTICA-EJ12A.png Graphic file (type png)
 <use ej-12//TP-MATEMÁTICA-EJ12A.png>
 Package pdftex.def Info: ej-12//TP-MATEMÁTICA-EJ12A.png  used on input line 46.
 (pdftex.def)             Requested size: 1255.09071pt x 659.2639pt.
 ) [4 <./ej-12//TP-MATEMÁTICA-EJ12A.png>] (./ej-12/solucion-b.tex
-<ej-12//12b1.png, id=103, 2488.29625pt x 1161.33875pt>
+<ej-12//12b1.png, id=115, 2488.29625pt x 1161.33875pt>
 File: ej-12//12b1.png Graphic file (type png)
 <use ej-12//12b1.png>
 Package pdftex.def Info: ej-12//12b1.png  used on input line 3.
 (pdftex.def)             Requested size: 1990.63976pt x 929.07228pt.
  [5 <./ej-12//12b1.png>] [6]
-<ej-12//TP-MATEMÁTICA-EJ12B.png, id=115, 1566.85374pt x 824.07875pt>
+<ej-12//TP-MATEMÁTICA-EJ12B.png, id=126, 1566.85374pt x 824.07875pt>
 File: ej-12//TP-MATEMÁTICA-EJ12B.png Graphic file (type png)
 <use ej-12//TP-MATEMÁTICA-EJ12B.png>
 Package pdftex.def Info: ej-12//TP-MATEMÁTICA-EJ12B.png  used on input line 100.
 (pdftex.def)             Requested size: 1566.84993pt x 824.07674pt.
 ) [7 <./ej-12//TP-MATEMÁTICA-EJ12B.png>] (./ej-12/solucion-c.tex [8]
-<ej-12//TP-MATEMÁTICA-EJ12C.png, id=127, 1562.83875pt x 824.07875pt>
+<ej-12//TP-MATEMÁTICA-EJ12C.png, id=138, 1562.83875pt x 824.07875pt>
 File: ej-12//TP-MATEMÁTICA-EJ12C.png Graphic file (type png)
 <use ej-12//TP-MATEMÁTICA-EJ12C.png>
 Package pdftex.def Info: ej-12//TP-MATEMÁTICA-EJ12C.png  used on input line 78.
 (pdftex.def)             Requested size: 1562.83495pt x 824.07674pt.
-)) [9 <./ej-12//TP-MATEMÁTICA-EJ12C.png>] [10] [11] (./tp.aux
+)) (./ej-18/main-18.tex [9 <./ej-12//TP-MATEMÁTICA-EJ12C.png>] (./ej-18/enunciado.tex) [10
+
+] (./ej-18/solucion-inicial.tex
+<ej-18/18ini.png, id=150, 1305.87875pt x 1425.325pt>
+File: ej-18/18ini.png Graphic file (type png)
+<use ej-18/18ini.png>
+Package pdftex.def Info: ej-18/18ini.png  used on input line 3.
+(pdftex.def)             Requested size: 1044.70442pt x 1140.26157pt.
+<ej-18/18ini2.png, id=151, 1204.5pt x 591.008pt>
+File: ej-18/18ini2.png Graphic file (type png)
+<use ej-18/18ini2.png>
+Package pdftex.def Info: ej-18/18ini2.png  used on input line 29.
+(pdftex.def)             Requested size: 963.60132pt x 472.80705pt.
+) [11 <./ej-18/18ini.png> <./ej-18/18ini2.png>] (./ej-18/solucion-a.tex) [12] (./ej-18/solucion-b.tex [13]
+<ej-18//TP-MATEMATICA-EJ18AB.png, id=171, 1566.85374pt x 824.07875pt>
+File: ej-18//TP-MATEMATICA-EJ18AB.png Graphic file (type png)
+<use ej-18//TP-MATEMATICA-EJ18AB.png>
+Package pdftex.def Info: ej-18//TP-MATEMATICA-EJ18AB.png  used on input line 34.
+(pdftex.def)             Requested size: 1566.84993pt x 824.07674pt.
+)) [14 <./ej-18//TP-MATEMATICA-EJ18AB.png>] [15] (./tp.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `tp.out' has not changed.
-(rerunfilecheck)             Checksum: 45FAA45371668F3EA59723CA8A91E9F5;1444.
+(rerunfilecheck)             Checksum: 72A9EF16DFC86CA3634F5A68F8FB04EC;1625.
  ) 
 Here is how much of TeX's memory you used:
- 12753 strings out of 478287
- 195398 string characters out of 5849289
- 530158 words of memory out of 5000000
- 30717 multiletter control sequences out of 15000+600000
- 480062 words of font info for 54 fonts, out of 8000000 for 9000
+ 12816 strings out of 478287
+ 196653 string characters out of 5849289
+ 531161 words of memory out of 5000000
+ 30752 multiletter control sequences out of 15000+600000
+ 480746 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,20n,64p,564b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on tp.pdf (11 pages, 537567 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on tp.pdf (15 pages, 721505 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
- 117 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 253 PDF objects out of 1000 (max. 8388607)
+ 192 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 148 words of extra memory for PDF output out of 10000 (max. 10000000)
 

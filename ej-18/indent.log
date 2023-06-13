@@ -1,9 +1,9 @@
 INFO:  latexindent version 3.15, 2022-01-21, a script to indent .tex files
        latexindent lives here: /usr/share/texlive/texmf-dist/scripts/latexindent/
-       Sun Jun 11 23:07:40 2023
-       Filename: /home/aac-devs/03-LATEX-VSCODE/TP-MAT/TP/tp.tex
+       Mon Jun 12 22:51:14 2023
+       Filename: /home/aac-devs/03-LATEX-VSCODE/TP-MAT/TP/ej-18/solucion-b.tex
 INFO:  Processing switches:
-INFO:  Directory for backup files and indent.log: /home/aac-devs/03-LATEX-VSCODE/TP-MAT/TP
+INFO:  Directory for backup files and indent.log: /home/aac-devs/03-LATEX-VSCODE/TP-MAT/TP/ej-18
 INFO:  YAML settings read: defaultSettings.yaml
        Reading defaultSettings.yaml from /usr/share/texlive/texmf-dist/scripts/latexindent/defaultSettings.yaml
 INFO:  YAML settings read: indentconfig.yaml or .indentconfig.yaml
