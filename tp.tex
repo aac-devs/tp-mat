@@ -1,6 +1,5 @@
 \documentclass[a4paper,12pt]{article}
 \setlength{\headheight}{14.84344pt}
-%\setlength{\headheight}{11pt}
 
 \usepackage[left=50pt, right=50pt, top=80pt, bottom=60pt,bindingoffset=0pt]{geometry}
 \usepackage{import}
@@ -14,7 +13,6 @@
 
 \usepackage{amsmath, amsthm, amssymb, multicol, setspace}
 \setlength{\columnsep}{1cm}
-%\usepackage{blindtext}
 
 \usepackage{graphicx}
 \usepackage{xcolor}
@@ -23,34 +21,38 @@
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhead{} % clear all header fields
-\fancyhead[R]{Trabajo Práctico Matemática Nro. 1 - TUIA}
-
-
-%\addtolength{\topmargin}{-2.84344pt}
+\fancyhead[R]{Trabajo Práctico Nro. 1 Matemática - TUIA}
 
 \renewcommand{\theenumi}{\alph{enumi}}
 \renewcommand{\labelenumi}{{\theenumi}}
 \providecommand{\abs}[1]{\lvert#1\rvert}
 
-
-
-%\usepackage{fontawesome}
-%\usepackage[hidelinks]{hyperref}
-%\let\orighref\href
-%\renewcommand{\href}[2]{\orighref{#1}{#2}}
-%\hypersetup{colorlinks=true,linkcolor=blue,filecolor=magenta,urlcolor=cyan}
-
-
 \begin{document}
+
+\begin{titlepage}
+	\centering
+	%{\bfseries\LARGE Universidad Nacional de Rosario \par}
+	\vspace{1cm}
+	{\includegraphics[width=0.7\textwidth]{FCEIA-logo.png}\par}
+	%{\scshape\Large FCEIA \par}
+	\vspace{2cm}
+	{\scshape\Huge Trabajo Práctico Nro. 1 \par}
+	\vspace{1cm}
+	{\scshape\Large Distancia entre puntos, rectas y planos en el espacio \par}
+	\vspace{3cm}
+	{\scshape\Large Matemática - TUIA \par}
+	\vfill
+	{\Large Autores: \par}
+	{\Large Andrés Arana Castillo \par}
+	{\Large Gustavo Casado \par}
+	\vfill
+	{\Large Junio 2023 \par}
+\end{titlepage}
 
 \tableofcontents
 
 \import{ej-12/}{main-12.tex}
 \import{ej-18/}{main-18.tex}
-
-\newpage
-\section{Ejercico 23}
-\subsection{Enunciado}
-\subsection{Solución}
+\import{ej-23/}{main-23.tex}
 
 \end{document}

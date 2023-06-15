@@ -1,0 +1,54 @@
+\subsubsection*{Valores iniciales:}
+
+\begin{multicols}{2}
+	\noindent En $r_1)$: \\
+	\indent $\boxed{P_1(2, -1, 3)}$ \\
+	\indent $\boxed{\vec{u}=(2, -1, 3)}$
+
+	\columnbreak
+	\noindent En $r_2)$: \\
+	\indent $\boxed{P_2(1, 0, 2)}$
+
+	\indent $\vec{v}  =\overrightarrow{PQ}     \\
+		\indent \vec{v}  = (-2, 2, 6) - (1, 0, 2) \\
+		\indent \vec{v}  =(-2-1, \ 2-0, \ 6-2)    \\
+		\indent \boxed{\vec{v}  =(-3,2,4)}$
+\end{multicols}
+
+\noindent $\overrightarrow{P_1P_2} = (1, 0, 2) - (2, -1, 3)$
+
+\noindent $\overrightarrow{P_1P_2} = [1 - 2, \ 0 - (-1), \ 2 - 3]$
+
+\noindent $\boxed{\overrightarrow{P_1P_2} = (-1, 1, -1)}$
+\vspace{1cm}
+
+\noindent \textbf{Verificación de coplanaridad entre $r_1$ y $r_2$}:
+
+\noindent Para verificar si las rectas son coplanares o alabeadas calculamos el producto mixto $\overrightarrow{P_1P_2} \cdot (\vec{u} \times \vec{v})$:
+\begin{align*}
+	\vec{u} \times \vec{v} & = (2, -1, 3) \times (-3, 2, 4)                                                          \\
+	\vec{u} \times \vec{v} & = \begin{vmatrix}
+		                           i  & j  & k \\
+		                           2  & -1 & 3 \\
+		                           -3 & 2  & 4 \\
+	                           \end{vmatrix}                                                                        \\
+	\vec{u} \times \vec{v} & = \vec{i} [(-1)(4) - (3)(2)] + \vec{j} [(3)(-3) - (2)(4)] + \vec{k} [(2)(2) - (-1)(-3)] \\
+	\vec{u} \times \vec{v} & = \vec{i} (-4 - 6) + \vec{j} (-9 - 8) + \vec{k} (4 - 3)                                 \\
+	\vec{u} \times \vec{v} & = \vec{i} (-10) + \vec{j} (-17) + \vec{k} (1)                                           \\
+	\vec{u} \times \vec{v} & = (-10, \ -17, \ 1)
+\end{align*}
+\begin{align*}
+	\overrightarrow{P_1P_2} \cdot (\vec{u} \times \vec{v}) & = (-1, 1, -1) \cdot (-10, -17, 1)      \\
+	\overrightarrow{P_1P_2} \cdot (\vec{u} \times \vec{v}) & = [(-1)(-10)] + [(1)(-17)] + [(-1)(1)] \\
+	\overrightarrow{P_1P_2} \cdot (\vec{u} \times \vec{v}) & = (10 - 17 -1)                         \\
+	\overrightarrow{P_1P_2} \cdot (\vec{u} \times \vec{v}) & = (10 - 18)                            \\
+	\overrightarrow{P_1P_2} \cdot (\vec{u} \times \vec{v}) & = \boxed{- 8}
+\end{align*}
+
+\noindent $\therefore$ \ podemos determinar que $r_1$ y $r_2$ son rectas \textbf{alabeadas}.
+
+
+
+
+
+
