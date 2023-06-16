@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1686945396 "/home/aac-devs/03-LATEX-VSCODE/TP-MAT/TP/tp.tex" "tp.pdf" "tp" 1686945398
+["pdflatex"] 1686945650 "/home/aac-devs/03-LATEX-VSCODE/TP-MAT/TP/tp.tex" "tp.pdf" "tp" 1686945652
   "/etc/texmf/web2c/texmf.cnf" 1680342673 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/aac-devs/03-LATEX-VSCODE/TP-MAT/TP/tp.tex" 1686882581 1552 77483e72bd34263da44e9aeb08e5f5a9 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -129,7 +129,7 @@
   "ej-12/main-12.tex" 1686530414 843 396d3fdfd451b6657b95ffdd3bed939a ""
   "ej-12/solucion-a.tex" 1686883144 1617 2606657379b6d2965b448ae34d732c82 ""
   "ej-12/solucion-b.tex" 1686883469 4639 0266e4ca7c39c4574e3deb099e740265 ""
-  "ej-12/solucion-c.tex" 1686945395 3943 fa10f4f17f8f80653e88c221e2eb9e71 ""
+  "ej-12/solucion-c.tex" 1686945645 3948 e4c8cddaebcb96f32c726190f09b2f43 ""
   "ej-12/solucion-inicial.tex" 1686884455 1771 e5d7d113c2e05ec1ddb2980c5a1adc9f ""
   "ej-18//TP-MATEMATICA-EJ18AB.png" 1686620980 111582 299a6cb3cc8807c10662698cb075df6e ""
   "ej-18/18ini.png" 1686537143 32005 f54f665a0e2008d37851e10e277ec0c8 ""
@@ -144,10 +144,10 @@
   "ej-23/main-23.tex" 1686799699 648 684081600c420a3be03ccb1deb45f5d1 ""
   "ej-23/solucion-inicial.tex" 1686802462 2286 d6fd53dc216d14a1715b348cdf15d2e3 ""
   "ej-23/solucion.tex" 1686884252 1686 f804dc5af14234e804584ef53b290c36 ""
-  "tp.aux" 1686945398 3014 28d218a193a0abad0c2e7a22924d7927 "pdflatex"
-  "tp.out" 1686945398 1746 3fc7c12b1abf33f019ff3204305c7039 "pdflatex"
+  "tp.aux" 1686945652 3014 28d218a193a0abad0c2e7a22924d7927 "pdflatex"
+  "tp.out" 1686945652 1746 3fc7c12b1abf33f019ff3204305c7039 "pdflatex"
   "tp.tex" 1686882581 1552 77483e72bd34263da44e9aeb08e5f5a9 ""
-  "tp.toc" 1686945398 1580 ce75698d0b14dc6f58ea0eb89feece82 "pdflatex"
+  "tp.toc" 1686945652 1580 ce75698d0b14dc6f58ea0eb89feece82 "pdflatex"
   (generated)
   "tp.aux"
   "tp.log"
